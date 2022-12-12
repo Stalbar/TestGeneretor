@@ -1,0 +1,12 @@
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\bin\Debug\net6.0\TestGeneratorLibrary.deps.json
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\bin\Debug\net6.0\TestGeneratorLibrary.dll
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\bin\Debug\net6.0\TestGeneratorLibrary.pdb
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\TestGeneratorLibrary.csproj.AssemblyReference.cache
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\TestGeneratorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\TestGeneratorLibrary.AssemblyInfoInputs.cache
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\TestGeneratorLibrary.AssemblyInfo.cs
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\TestGeneratorLibrary.csproj.CoreCompileInputs.cache
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\TestGeneratorLibrary.dll
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\refint\TestGeneratorLibrary.dll
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\TestGeneratorLibrary.pdb
+c:\Users\Aleksey\Desktop\TestsGenerator-master\TestGeneratorLibrary\obj\Debug\net6.0\ref\TestGeneratorLibrary.dll
